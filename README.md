@@ -1,6 +1,6 @@
 # Fonts
 
-Popular UI fonts or just some of my favorites. Stylesheet will be uploaded for imports.
+Popular UI fonts or just some of my favorites. Stylesheet included for imports.
 
 ## UI Fonts
 - SF Pro (Apple)
@@ -14,7 +14,7 @@ Popular UI fonts or just some of my favorites. Stylesheet will be uploaded for i
 - Darkmode
 
 ## CSS 
-Uses jsdeliver CDN so this repository can be used for web projects.
+Uses [jsdeliver](https://www.jsdelivr.com/) CDN so this repository can be used for web projects.
 
 ### Import
 ```css
