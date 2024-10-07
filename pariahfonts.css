@@ -35,6 +35,15 @@
 }
 
 @font-face {
+    font-family: "Montserrat";
+    src:
+        local("Montserrat"),
+        url("https://cdn.jsdelivr.net/gh/Pariah187/Fonts/Montserrat/static/Montserrat-Regular.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+}
+
+@font-face {
     font-family: 'Darkmode';
     src: 
         local("Darkmode"),
