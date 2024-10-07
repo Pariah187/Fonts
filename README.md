@@ -9,6 +9,7 @@ Popular UI fonts or just some of my favorites. Stylesheet included for imports.
 - Roboto (Google)
 - Inter
 - Open Sans
+- Montserrat
 
 ## Creative Fonts
 - Darkmode
@@ -57,6 +58,15 @@ Uses [jsdeliver](https://www.jsdelivr.com/) CDN so this repository can be used f
     src:
         local("Inter 18pt"),
         url("https://cdn.jsdelivr.net/gh/Pariah187/Fonts/Inter/Inter_18pt-Regular.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src:
+        local("Montserrat"),
+        url("https://cdn.jsdelivr.net/gh/Pariah187/Fonts/Montserrat/static/Montserrat-Regular.ttf") format("truetype");
         font-weight: normal;
         font-style: normal;
 }
