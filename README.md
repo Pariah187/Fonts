@@ -15,6 +15,15 @@ Popular UI fonts or just some of my favorites. Stylesheet will be uploaded for i
 
 ## CSS 
 Uses jsdeliver CDN so this repository can be used for web projects.
+
+### Import
+```css
+@import url(https://cdn.jsdelivr.net/gh/Pariah187/Fonts/pariahfonts.css);
+```
+>[!Note]
+>Copy to import fonts into your stylesheet.
+
+### Quick-copy Stylesheet
 ```css
 @font-face {
     font-family: "SF Pro Text";
@@ -61,3 +70,5 @@ Uses jsdeliver CDN so this repository can be used for web projects.
     font-style:normal;
 }
 ```
+>[!Note]
+>Copy to make changes to the code.
