@@ -18,7 +18,7 @@ Uses [jsdeliver](https://www.jsdelivr.com/) CDN so this repository can be used f
 
 ### Import
 ```css
-@import url(https://cdn.jsdelivr.net/gh/Pariah187/Fonts/pariahfonts.css);
+@import url("https://cdn.jsdelivr.net/gh/Pariah187/Fonts/pariahfonts.css");
 ```
 >[!Note]
 >Copy to import fonts into your stylesheet.
